@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoogleAuthentication</string>
+
+
+
+
+
+    <string name="facebook_application_id" translatable="false">1009078599430994</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false" >fb1009078599430994</string>
+
+
+</resources>
